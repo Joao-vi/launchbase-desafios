@@ -9,7 +9,7 @@
         "browser": "browser-sync start --proxy http://localhost:4000 --files 'public,views'"
     },
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "nunjucks": "^3.2.3"
     },
     "devDependencies": {
